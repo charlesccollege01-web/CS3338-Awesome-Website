@@ -1,0 +1,45 @@
+commit 68b0a14217a0a46cdba1885143220c0e6146cc9a
+Merge: 35b0e84 caa69e8
+Author: Charles <charlesccollege01@gmail.com>
+Date:   Wed Sep 9 10:55:00 2026 -0700
+
+    Commit my index.html
+
+commit caa69e8d888d0a323b9feffc0f2025b7b42d755f
+Author: Charles <charlesccollege01@gmail.com>
+Date:   Wed Sep 9 10:42:52 2026 -0700
+
+    Commit my index.html
+
+commit 35b0e84aa18c87ff0d3084981f21c89ad1bc9e53
+Author: Charles <charlesccollege01@gmail.com>
+Date:   Wed Sep 9 10:40:00 2026 -0700
+
+    Commit my index.html
+
+commit 552689505351492be4a3bf7fcb59eb3e3a05beb6
+Author: Charles <charlesccollege01@gmail.com>
+Date:   Wed Sep 9 10:35:27 2026 -0700
+
+    Commit my README
+
+commit f3e82bda44cdc08ab6936c3d7937b7e442505b8b
+Merge: 1d2bfc0 e863c38
+Author: Charles <charlesccollege01@gmail.com>
+Date:   Wed Sep 9 10:27:52 2026 -0700
+
+    Merge pull request #1 from charlesccollege01-web/info-fill
+    
+    Commit my index.html
+
+commit e863c38285b4594b0589f62b4d688ea59c448d58
+Author: Charles <charlesccollege01@gmail.com>
+Date:   Wed Sep 9 10:24:45 2026 -0700
+
+    Commit my index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
